@@ -1,0 +1,116 @@
+body{ margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #e4f9f5;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF ;    
+}
+
+h2{
+   
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.intro{
+    color: #40514e;
+}
+hr{
+    height: 0px;
+    border-style: dotted none none none;
+    width: 10%;
+    border-width: 10px;
+    border-color: #40514e;
+}
+a{
+    margin: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;   
+    top: 50px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+.mountain{
+    
+    top: 200px;
+    left: 400px
+    
+}
+
+.middle-container{
+   
+}
+.bottom-container{
+    background-color: #66bfbf ;
+    padding: 30px;
+    
+}
+.profile-pic{
+    border-radius: 100px;
+}
+.profile{
+    margin: 100px auto 50px auto;
+}
+.skills{
+    margin-top: 100px;
+}
+.btn{
+    color: #11999E;
+}
+.footer-link{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.drawing{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.engineer{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+button{
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: #66bfbf;
+    color: white;
+    font-size: 1.2rem ;
+    margin: 20px 50px 50px 50px;
+
+}
+.copy-right{
+    color: #eaf6f6;
+}
